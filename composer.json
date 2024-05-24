@@ -1,0 +1,8 @@
+{
+    "name": "ruki/projeurl",
+    "description": "Projenizin açıklaması",
+    "require": {
+        "vlucas/phpdotenv": "^5.4",
+        "ramsey/uuid": "^4.1"
+    }
+}
